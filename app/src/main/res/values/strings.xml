@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PhotoWeatherApp</string>
+    <string name="weather_photos">Photo Weather App</string>
+    <string name="no_photos">No Photos Saved Yet!</string>
+    <string name="capture_image">Capture Image</string>
+    <string name="permissions_needed">Permissions Needed</string>
+    <string name="permissions_needed_message">Please grant all the needed permissions for the app to function correctly</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="settings">Settings</string>
+    <string name="enable_gps">Enable GPS</string>
+    <string name="enable_gps_message">Please enable GPS in high accuracy mode to get your location</string>
+    <string name="something_went_wrong">Sorry, something went wrong</string>
+    <string name="done">Done</string>
+    <string name="full_view">Full View</string>
+</resources>
